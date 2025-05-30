@@ -14,7 +14,7 @@ Experimental results demonstrate that our method based on LLaVA-1.5 achieves com
 
 The main results are illustrated in the below figure.
 
-<img src="images/main_results.png" alt="result" style="zoom:20%;" />
+<img src="images/main_results.png" alt="result" width="800px" />
 
 ### Install
 
