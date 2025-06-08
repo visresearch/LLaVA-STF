@@ -71,8 +71,8 @@ We use a similar set of hyperparameters as the original LLaVA.  Both hyperparame
 ### Model Weights
 | Model | Schedule | Checkpoint | VQAv2 | GQA | VizWiz | SQA | TextVQA | POPE | MME | MM-Bench | MM-Bench-CN |
 |----------|-----------|-----------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| LLaVA-v1.5-7B (pretrain) | 1 epoch | [download](https://huggingface.co/visresearch/LLaVA-STF/tree/main/LLaVA-STF/pretrain/LLaVA-vicuna-1.5-7B) | / | / | / | / | / | / | / | / | / |
-| LLaVA-v1.5-7B (finetune) | full_ft-1e | [download](https://huggingface.co/visresearch/LLaVA-STF/tree/main/full-parameter-finetune/LLaVA-vicuna-1.5-7B) | 78.1 | 61.9 | 51.1 | 70.5 | 57.4 | 86.0 | 1482.8 | 66.2 | 58.9 |
+| LLaVA-v1.5-7B (pretrain) | 1 epoch | [download](https://huggingface.co/visresearch/LLaVA-STF/tree/main/pretrain/LLaVA-vicuna-1.5-7B) | / | / | / | / | / | / | / | / | / |
+| LLaVA-v1.5-7B (finetune) | full_ft-1e | [download](https://huggingface.co/visresearch/LLaVA-STF/tree/main/full-parameter-finetune) | 78.1 | 61.9 | 51.1 | 70.5 | 57.4 | 86.0 | 1482.8 | 66.2 | 58.9 |
 
 ### Evaluation
 
