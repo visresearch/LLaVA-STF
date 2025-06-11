@@ -2,7 +2,7 @@
 
 This repository is the official implementation of "Learning Compact Vision Tokens for Efficient Large Multimodal Models".
 
-[[Paper](https://arxiv.org/abs/2506.07138)]    [[BibTex](#Citation)]    [[Blog]()]    [[HuggingFace](https://huggingface.co/visresearch/LLaVA-STF/tree/main)]
+[[Paper](https://arxiv.org/abs/2506.07138)]    [[BibTex](#Citation)]   [[HuggingFace](https://huggingface.co/visresearch/LLaVA-STF/tree/main)]
 
 ![framework](images/tang2025compact.png)
 
